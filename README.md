@@ -62,6 +62,9 @@
   <a href="https://linkedin.com/in/tiwaripratik222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:tiwaripratik222@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
