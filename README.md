@@ -1,4 +1,5 @@
-### Hi there! 👋 I'm Pratik Tiwari
+<h1 align="center">Hi 👋, I'm Pratik Tiwari</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Developer;Full+Stack+Web+Developer;Database+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
@@ -6,10 +7,23 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratik-tiwari-001/pratik-tiwari-001/main/assets/bunny.gif" alt="A cool bunny GIF" width="200" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratik-tiwari-001/pratik-tiwari-001/main/assets/pacman.gif" alt="Pac-Man GIF" width="400" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-* I am a **B.Tech IT student** with a keen interest in **Java, Web Development, and SQL**.
-* I love building full-stack applications and solving real-world problems.
+* 🌱 I'm a **B.Tech IT student** with a keen interest in **Java, Web Development, and SQL**.
+* ⚡ I'm currently exploring **Backend Development** and building full-stack applications.
+* 📧 You can reach me at **tiwaripratik222@gmail.com**.
 
 ---
 
@@ -23,15 +37,6 @@
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | |
 | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | |
-
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratiktiwari001&show_icons=true&theme=dark" alt="Pratik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiktiwari001&theme=dark" alt="Pratik's GitHub Streak" />
-</p>
 
 ---
 
