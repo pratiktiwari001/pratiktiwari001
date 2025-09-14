@@ -1,15 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Pratik Tiwari</h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="150"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Developer;Full+Stack+Web+Developer;Database+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
+---
 
-<div align="left">
 * 🌱 I'm a **B.Tech IT student** with a keen interest in **Java, Web Development, and SQL**.
 * ⚡ I'm currently exploring **Backend Development** and building full-stack applications.
 * 📧 You can reach me at **tiwaripratik222@gmail.com**.
-</div>
 
 ---
 
