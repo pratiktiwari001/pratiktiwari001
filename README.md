@@ -40,6 +40,15 @@
 
 ---
 
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratiktiwari001&show_icons=true&theme=dark" alt="Pratik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiktiwari001&theme=dark" alt="Pratik's GitHub Streak" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
